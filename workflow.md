@@ -1,5 +1,6 @@
 ## Standard workflov
-1. Opprett et repository i github
+1. Opprett repository i github (ta med readme og .gitignore)
+2. Legg til sammarbeidspartnere (Collaborators) (Kan gjøres når som helst)
 2. **clone** til egen katalog
 3. **commit** etter som en gjør endringer 
 4. **push** endringene til github
