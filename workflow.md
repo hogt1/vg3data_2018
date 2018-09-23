@@ -11,3 +11,11 @@
  2. **stage** filen
  3. **commit** 
  4. **push** 
+
+## Tips
+- **commit** ofte. En kan enkelt angre seg tilbake til forrige commit.
+- **push** ved øktens slutt. Om du har fungerende kode!
+- **branch** før push om du ikke har fungerende kode.
+- **branch** om du jobber med en isolert del av systemet.
+- Prat sammen for å unngå **merge**.
+- **stash** om du skal "ekperimentere" litt.
